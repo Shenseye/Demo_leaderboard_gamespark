@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: c275d1cacd06020448987e95ed58fa6a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tappy
+    21300002: Menu - Awards
+    21300004: TappyWing 1
+    21300006: Pencil
+    21300008: Logo - Tappy Bird
+    21300010: TappyWing 2
+    21300012: Menu - Tap
+    21300014: Award
+    21300016: Menu - Up Arrow
+    21300018: Menu - TapHand
+    21300020: Button - 1
+    21300022: Button - 2
+    21300024: Button - 3
+    21300026: Button - Leaderboards
+    21300028: Button - 4
+    21300030: Button - 5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Tappy
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 602
+        width: 147
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Menu - Awards
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 512
+        width: 287
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TappyWing 1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 484
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pencil
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 52
+        width: 102
+        height: 594
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Logo - Tappy Bird
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 322
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TappyWing 2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 423
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Menu - Tap
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 331
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Award
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 286
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Menu - Up Arrow
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 211
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Menu - TapHand
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 84
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button - 1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button - 2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 284
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button - 3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 231
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button - Leaderboards
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 168
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button - 4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 139
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button - 5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

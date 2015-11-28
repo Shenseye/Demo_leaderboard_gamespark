@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 2e0a2b5e3c6f7de44bc0c2945471d108
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background - Sky
+    21300002: Background - Bushes
+    21300004: Background - Cloud 1
+    21300006: Background - Cloud 2
+    21300008: Background - Cloud 3
+    21300010: Background - 4
+    21300012: Background - Building 1
+    21300014: Background - Building 2
+    21300016: Background - Ground
+    21300018: Background - Cloud 5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Background - Sky
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 387
+        height: 475
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Bushes
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 31
+        width: 731
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Cloud 1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 248
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Cloud 2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 232
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Cloud 3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 201
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - 4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 131
+        width: 101
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Building 1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 53
+        width: 107
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Building 2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 47
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Ground
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 434
+        width: 650
+        height: 174
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Background - Cloud 5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 161
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
